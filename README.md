@@ -1,2 +1,2 @@
 # ShortURL
-$Short URL For MY WEBSITE
+Short URL For MY WEBSITE
